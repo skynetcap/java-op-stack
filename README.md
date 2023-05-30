@@ -11,4 +11,4 @@ OP Stack Bedrock client in Java
 
 ## Reference
 
-- https://community.optimism.io/docs/developers/build/json-rpc/#eth-sendtransaction
+- https://community.optimism.io/docs/developers/build/json-rpc/#rollup-node-op-node
