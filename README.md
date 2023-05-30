@@ -1,6 +1,6 @@
-# Optimism Stack SDK in Java
+# op-node Bedrock SDK
 
-OP Stack Bedrock client in Java 
+op-node Bedrock client in Java
 
 ## APIs
 
