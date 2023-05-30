@@ -6,7 +6,9 @@ public class OpStackTest {
 
     @Test
     public void opStackTest() {
-        log.info("Test ran");
+        String endpoint = "https://mainnet.optimism.io/";
+        OptimismClient client = new OptimismClient(endpoint);
+        log.info("Client endpoint = " + client.endpoint());
     }
 
 }
