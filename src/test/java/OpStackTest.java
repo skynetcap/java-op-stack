@@ -8,7 +8,9 @@ public class OpStackTest {
     public void opStackTest() {
         String endpoint = "https://mainnet.optimism.io/";
         OptimismClient client = new OptimismClient(endpoint);
-        log.info("Client endpoint = " + client.endpoint());
+        log.info("Client endpoint = " + client.getEndpoint());
+
+        client.optimismVersion();
     }
 
 }
