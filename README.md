@@ -2,4 +2,4 @@
 
 ## Features
 
-OP RPC API imeplemented over Web3J
+OP RPC API implemented over Web3J
