@@ -2,7 +2,7 @@
 
 ## Features
 
-OP RPC API implemented using Web3J (https://github.com/web3j/web3j)
+OP Stack RPC API implemented in Java
 
 ## APIs
 
@@ -16,3 +16,7 @@ OP RPC API implemented using Web3J (https://github.com/web3j/web3j)
 - optimism_syncStatus
 - optimism_rollupConfig
 - optimism_version
+
+## Java dependencies
+
+- OkHttp
