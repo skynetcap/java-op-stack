@@ -1,6 +1,4 @@
-# java-op-stack - Optimism Stack SDK in Java
-
-## Features
+# Optimism Stack SDK in Java
 
 OP Stack RPC API implemented in Java
 
