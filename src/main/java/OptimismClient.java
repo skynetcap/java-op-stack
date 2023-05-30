@@ -22,7 +22,7 @@ public class OptimismClient {
     }
 
     public String optimismVersion() {
-        String json = "{\"jsonrpc\":\"2.0\",\"method\":\"optimism_version\",\"params\":[],\"id\":1}";
+        String json = "{\"jsonrpc\":\"2.0\",\"method\":\"rollup_gasPrices\",\"params\":[],\"id\":1}";
         RequestBody body = RequestBody.create(MediaType.parse("application/json"), json);
         Request request = new Request.Builder()
                 .url(endpoint)
